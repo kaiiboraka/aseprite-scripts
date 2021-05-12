@@ -10,7 +10,9 @@ https://github.com/kaiiboraka/aseprite-scripts
 
 ## -- Installation --
 
-Open the Scripts folder via `File->Scripts->Open Scripts Folder`. Simply move the files into that folder to install. Once there, scripts can be run via `File->Scripts->SCRIPT NAME`. You may need to restart Aseprite first for the scripts to show up.
+Open the Scripts folder via `File->Scripts->Open Scripts Folder`. Simply move the files into that folder (or your own subfolder) to install. Once there, scripts can be run via `File->Scripts->SCRIPT NAME`. You may need to restart Aseprite first for the scripts to show up.
+
+It is also possible to assign scripts to custom keyboard shortcuts of your choosing.
 
 ## -- Scripts --
 
